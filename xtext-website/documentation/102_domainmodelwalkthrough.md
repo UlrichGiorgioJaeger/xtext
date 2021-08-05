@@ -8,6 +8,8 @@ part: Getting Started
 
 In this tutorial we will implement a small domain-specific language to model entities and properties similar to what you may know from Rails, Grails or Spring Roo. The syntax is very suggestive:
 
+This part is totally unclear, a model is specified but not further told anything about it. The text jumps then directly to 83 where a new domainmodel is introduced makes no sense whatsoever?
+
 ```domainexample
 datatype String
 
